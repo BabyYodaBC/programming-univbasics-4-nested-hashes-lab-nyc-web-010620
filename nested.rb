@@ -79,9 +79,6 @@ programmer_hash = {:yukihiro_matsumoto => {
           :languages => ["C"]
         }
      }
-      
-
- }
 
 end
 
