@@ -102,7 +102,7 @@ def changing_alan
      }
      
     alans_new_info = "GUI"
-   return programmer_hash[:known_for] = alans_new_info
+   return programmer_hash[:known_for] => alans_new_info
      
 end
 
